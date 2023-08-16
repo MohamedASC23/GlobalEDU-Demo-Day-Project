@@ -1,0 +1,70 @@
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  color: black;
+}
+
+
+
+.Title {
+  border: 2px solid #97e797;
+  padding: 5px;
+  background-color: #97e797;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+h2:hover {
+  color: rgb(77, 77, 77);
+  opacity: 0.5;
+}
+
+
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+#center-container {
+  display: flex;
+  margin-top: 50px;
+  height: 300px;
+  /* Adjust as needed */
+}
+
+#img-div {
+  display: flex;
+
+}
+
+.images {
+  padding: 2px;
+  background-color: #000000;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  width: 440px;
+}
+
+
+
+#logo {
+
+  width: 100px;
+}
